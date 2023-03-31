@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\TypesOfTriangles\bin\Debug\net7.0\TypesOfTriangles.exe
+C:\Users\33984578865\Desktop\TypesOfTriangles\bin\Debug\net7.0\TypesOfTriangles.deps.json
+C:\Users\33984578865\Desktop\TypesOfTriangles\bin\Debug\net7.0\TypesOfTriangles.runtimeconfig.json
+C:\Users\33984578865\Desktop\TypesOfTriangles\bin\Debug\net7.0\TypesOfTriangles.dll
+C:\Users\33984578865\Desktop\TypesOfTriangles\bin\Debug\net7.0\TypesOfTriangles.pdb
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.dll
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\refint\TypesOfTriangles.dll
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.pdb
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\TypesOfTriangles.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\TypesOfTriangles\obj\Debug\net7.0\ref\TypesOfTriangles.dll
